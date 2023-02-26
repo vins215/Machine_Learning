@@ -52,3 +52,9 @@ To send version/changes to github
 ...
 git push origin main
 ... 
+
+'''
+to check remote URL
+'''
+git remote -v
+'''
